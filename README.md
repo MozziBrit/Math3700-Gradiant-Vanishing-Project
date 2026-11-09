@@ -1,8 +1,7 @@
 # MATH 3700 Project: From Chain Rule to Gradient Vanishing
 
-**Author:** Shimo Wang (ID: 1306043)  
-**Course:** MATH 3700 - Big Data Computing  
-**Institution:** Wenzhou-Kean University  
+**Author:** Shimo Wang  
+**Course:** MATH 3700 - Big Data Computing   
 
 ##  Project Overview
 This project investigates how the multivariate **Chain Rule** in backpropagation leads to the vanishing and exploding gradient problems in deep neural networks. By analyzing the product of layer-wise Jacobians, we demonstrate why activation function choice (Sigmoid vs. ReLU) and weight initialization are critical for numerical stability.
